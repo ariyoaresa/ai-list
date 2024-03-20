@@ -94,6 +94,6 @@
         "name": "Grok",
         "description": "Grok is a generative artificial intelligence chatbot developed by xAI, based on a large language model (LLM).",
         "url": "https://grok.x.ai/"
-    },
+    }
 
 ]
