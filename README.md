@@ -1,12 +1,12 @@
 # ai-list
 An open source website that shows list of AI and their informations
 
-#About
+# About
 AI-list is an open source website that combines lists of AIs and their uses.
 
-#How to contribute
+# How to contribute
 
-Contributing to these repo involves several steps. Here's a general guide to get you started:
+Contributing to this repo involves several steps. Here's a general guide to get you started:
 
 1. **Fork the Repository**: Fork the repository to create your copy of the project. This copy will be hosted under your GitHub account.
 
