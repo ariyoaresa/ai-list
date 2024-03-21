@@ -103,7 +103,7 @@
     },
     {
         id: 18,
-        name: "SEO ai"
+        name: "SEO ai",
         description: "SEO.ai let's you harness the superpowers of world-leading generative artificial intelligence for generating high-quality SEO keyword research and AI copywriting.",
     }
 
