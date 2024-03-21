@@ -96,15 +96,22 @@
         "url": "https://grok.x.ai/"
     },
     {
-        id: 17,
-        name: "DeepAI",
-        description: "an innovative online platform and API service that harnesses the power of artificial intelligence (AI) to provide users with a wide range of creative and practical tools.",
-        url: "https://deepai.org/"
+        "id": 17,
+        "name": "DeepAI",
+        "description": "an innovative online platform and API service that harnesses the power of artificial intelligence (AI) to provide users with a wide range of creative and practical tools.",
+        "url": "https://deepai.org/"
     },
     {
-        id: 18,
-        name: "SEO ai",
-        description: "SEO.ai let's you harness the superpowers of world-leading generative artificial intelligence for generating high-quality SEO keyword research and AI copywriting.",
+        "id": 18,
+        "name": "SEO ai",
+        "description": "SEO.ai let's you harness the superpowers of world-leading generative artificial intelligence for generating high-quality SEO keyword research and AI copywriting.",
+        "url": "https://app.seo.ai"
+    },
+    {
+        "id": 19,
+        "name": "Designs.AI",
+        "description": "Create astonishing designs with artificial intelligence, ranging from logos to mockups",
+        "url": "https://designs.ai"
     }
 
 ]
