@@ -94,6 +94,17 @@
         "name": "Grok",
         "description": "Grok is a generative artificial intelligence chatbot developed by xAI, based on a large language model (LLM).",
         "url": "https://grok.x.ai/"
+    },
+    {
+        id: 17,
+        name: "DeepAI",
+        description: "an innovative online platform and API service that harnesses the power of artificial intelligence (AI) to provide users with a wide range of creative and practical tools.",
+        url: "https://deepai.org/"
+    },
+    {
+        id: 18,
+        name: "SEO ai"
+        description: "SEO.ai let's you harness the superpowers of world-leading generative artificial intelligence for generating high-quality SEO keyword research and AI copywriting.",
     }
 
 ]
