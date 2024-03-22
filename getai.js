@@ -14,7 +14,7 @@ function getList() {
                 <div class="list">
                     <h1 class="name">${item.name}</h1>
                     <p class="description">${item.description}</p>
-                    <button class="itview"><a href="${item.url}" target="_blank">View</a></button>
+                    <button class="itview"><a href="${item.url}" target="_blank">Visit website</a></button>
                 </div>
                 `;
             });
@@ -26,3 +26,26 @@ function getList() {
 }
 
 getList();
+
+function getContributors() {
+    fetch('https://api.github.com/repos/ariyoaresa/ai-list/contributors')
+        .then(response => response.json())
+        .then(values => {
+            contributorsDiv = document.getElementById('contributors');
+            if (values.length === 0) {
+                contributorsDiv.innerHTML = "<h3>No contributors found</h3>";
+            } else {
+                let contributorsHTML = "";
+                values.forEach(value => {
+                    contributorsHTML += `
+                    <div class="contributors">
+                        <img src="${value.avatar_url}" alt="User's Avatar" class="userImage">
+                    </div>
+                    `;
+                });     
+                contributorsDiv.innerHTML = contributorsHTML;
+            }
+        });
+}
+
+getContributors();
