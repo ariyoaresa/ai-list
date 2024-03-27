@@ -1,10 +1,25 @@
 *{
     padding: 0;
+    box-sizing: border-box;
 }
 body{
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
+}
+#sbcnt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+#searchBar{
+    width: 98%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1.5px solid #3a3a3a;
 }
 #list{
     display: grid;
