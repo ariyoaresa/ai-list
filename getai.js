@@ -49,3 +49,17 @@ function getContributors() {
 }
 
 getContributors();
+
+document.getElementById('searchBar').addEventListener('input', function(event) {
+    let searchTerm = event.target.value.toLowerCase();
+    let items = document.querySelectorAll('.list');
+
+    items.forEach(item => {
+        let title = item.querySelector('.name').textContent.toLowerCase();
+        if (title.includes(searchTerm)) {
+            item.style.display = 'block';
+        } else {
+            item.style.display = 'none';
+        }
+    });
+});
