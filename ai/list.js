@@ -173,5 +173,20 @@
         "description": "CodeChef AI Learning Platform offers personalized learning experiences for individuals interested in competitive programming. It provides adaptive learning paths, practice problems, and real-time feedback powered by AI algorithms.",
         "url": "https://learn.codechef.com/",
         "logo": "https://cdn.codechef.com/images/cc-logo.svg"
+    },
+    {
+        "id": 26,
+        "name": "LearningStudioAI",
+        "description": "LearningStudioAI offers personalized online courses for individuals interested in various subjects. It provides adaptive learning paths, comprehensive course materials, and interactive exercises.",
+        "url": "https://learningstudioai.com/",
+        "logo": "https://learningstudioai.com/learningstudioai-logo.svg"
+    },
+    {
+        "id": 27,
+        "name": "BrainBoost",
+        "description": "BrainBoost is an AI-powered learning assistant designed to enhance cognitive skills through personalized exercises and adaptive learning paths. It offers a range of activities to improve memory, focus, and problem-solving abilities.",
+        "url": "https://brainboost.com/",
+        "logo": "https://brainboost.com/wp-content/themes/unified-microsites/brainBoost_logo.svg"
     }
+    
 ]
