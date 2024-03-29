@@ -283,3 +283,28 @@ footer{
     width: 30px;
     border-radius: 50%;
 }
+
+.content {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.content h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.content h2 {
+    color: #555;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.content p {
+    color: #666;
+    line-height: 1.6;
+}
