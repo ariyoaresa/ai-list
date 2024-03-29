@@ -10,7 +10,7 @@
         "id": 2,
         "name": "Ideogram",
         "description": "A tool for generating images from text prompts",
-        "url": "https://ideogram.io/"
+        "url": "https://ideogram.ai/"
 
     },
     {
