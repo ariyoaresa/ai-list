@@ -145,6 +145,48 @@
         "description": "Personalized Educational Platform for Learning anything.",
         "url": "https://www.tutorai.me/",
         "logo": "./assets/Ai-icons/tutorai.svg"
+    },
+    {
+        "id": 22,
+        "name": "Freepik Pikaso",
+        "description": "Envision and sketch any image, AI transforms it into art in real time.",
+        "url": "https://www.freepik.com/",
+        "logo": "https://content.wepik.com/media/pikaso/pikaso-logo.svg?v=4"
+    },
+    {
+        "id": 23,
+        "name": "Fine Pixel",
+        "description": "Enhance your images 10X with AI upscaler.",
+        "url": "https://finepixel.lusion.ai/",
+        "logo": "https://finepixel.lusion.ai/assets/img/fine-pixel-typo.svg"
+    },
+    {
+        "id": 24,
+        "name": "Tracecat",
+        "description": "AI-assisted, open-source automation for security teams.",
+        "url": "https://tracecat.com/",
+        "logo": "https://framerusercontent.com/images/bStN2kREHlChE1Ke4tsCKs37AY.svg?scale-down-to=512"
+    },
+    {
+        "id": 25,
+        "name": "CodeChef AI Learning Platform",
+        "description": "CodeChef AI Learning Platform offers personalized learning experiences for individuals interested in competitive programming. It provides adaptive learning paths, practice problems, and real-time feedback powered by AI algorithms.",
+        "url": "https://learn.codechef.com/",
+        "logo": "https://cdn.codechef.com/images/cc-logo.svg"
+    },
+    {
+        "id": 26,
+        "name": "LearningStudioAI",
+        "description": "LearningStudioAI offers personalized online courses for individuals interested in various subjects. It provides adaptive learning paths, comprehensive course materials, and interactive exercises.",
+        "url": "https://learningstudioai.com/",
+        "logo": "https://learningstudioai.com/learningstudioai-logo.svg"
+    },
+    {
+        "id": 27,
+        "name": "BrainBoost",
+        "description": "BrainBoost is an AI-powered learning assistant designed to enhance cognitive skills through personalized exercises and adaptive learning paths. It offers a range of activities to improve memory, focus, and problem-solving abilities.",
+        "url": "https://brainboost.com/",
+        "logo": "https://brainboost.com/wp-content/themes/unified-microsites/brainBoost_logo.svg"
     }
-
+    
 ]
