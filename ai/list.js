@@ -145,6 +145,28 @@
         "description": "Personalized Educational Platform for Learning anything.",
         "url": "https://www.tutorai.me/",
         "logo": "./assets/Ai-icons/tutorai.svg"
+    },
+    {
+        "id": 22,
+        "name": "Freepik Pikaso",
+        "description": "Envision and sketch any image, AI transforms it into art in real time.",
+        "url": "https://www.freepik.com/",
+        "logo": "https://content.wepik.com/media/pikaso/pikaso-logo.svg?v=4"
+    },
+    {
+        "id": 23,
+        "name": "Fine Pixel",
+        "description": "Enhance your images 10X with AI upscaler.",
+        "url": "https://finepixel.lusion.ai/",
+        "logo": "https://finepixel.lusion.ai/assets/img/fine-pixel-typo.svg"
+    },
+    {
+        "id": 24,
+        "name": "Tracecat",
+        "description": "AI-assisted, open-source automation for security teams.",
+        "url": "https://tracecat.com/",
+        "logo": "https://framerusercontent.com/images/bStN2kREHlChE1Ke4tsCKs37AY.svg?scale-down-to=512"
     }
+
 
 ]
