@@ -11,7 +11,7 @@
         "name": "Ideogram",
         "description": "A tool for generating images from text prompts",
         "url": "https://ideogram.ai/"
-        "logo": "https://ideogram.ai/favicon.svg"
+        "logo": "./assets/Ai-icons/ideogram-icon.svg"
 
     },
     {
