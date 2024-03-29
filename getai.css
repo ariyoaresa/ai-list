@@ -130,7 +130,7 @@ ul, li{
 
 #searchBar{
     width: 75%;
-    padding-left: 20px;
+    padding: 20px;
     margin: 10px;
     border-radius: 8px;
     border: 1.5px solid #3a3a3a;
