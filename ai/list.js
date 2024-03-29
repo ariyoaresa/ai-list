@@ -10,9 +10,8 @@
         "id": 2,
         "name": "Ideogram",
         "description": "A tool for generating images from text prompts",
-        "url": "https://ideogram.ai/"
+        "url": "https://ideogram.ai/",
         "logo": "./assets/Ai-icons/ideogram-icon.svg"
-
     },
     {
         "id": 3,
