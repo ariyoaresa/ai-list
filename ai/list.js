@@ -148,9 +148,9 @@
     },
     {
         "id": 22,
-        "name": "Freepik Pikaso",
+        "name": "Freepik AI Tools",
         "description": "Envision and sketch any image, AI transforms it into art in real time.",
-        "url": "https://www.freepik.com/",
+        "url": "https://www.freepik.com/ai",
         "logo": "https://content.wepik.com/media/pikaso/pikaso-logo.svg?v=4"
     },
     {
