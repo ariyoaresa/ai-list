@@ -63,7 +63,7 @@ function getContributors() {
                 values.forEach(value => {
                     contributorsHTML += `
                     <div class="contributors">
-                        <img src="${value.avatar_url}" alt="User's Avatar" class="userImage">
+                        <a href="${value.html_url}"><img src="${value.avatar_url}" alt="User's Avatar" class="userImage"></a>
                     </div>
                     `;
                 });     
