@@ -166,7 +166,12 @@
         "description": "AI-assisted, open-source automation for security teams.",
         "url": "https://tracecat.com/",
         "logo": "https://framerusercontent.com/images/bStN2kREHlChE1Ke4tsCKs37AY.svg?scale-down-to=512"
+    },
+    {
+        "id": 25,
+        "name": "CodeChef AI Learning Platform",
+        "description": "CodeChef AI Learning Platform offers personalized learning experiences for individuals interested in competitive programming. It provides adaptive learning paths, practice problems, and real-time feedback powered by AI algorithms.",
+        "url": "https://learn.codechef.com/",
+        "logo": "https://cdn.codechef.com/images/cc-logo.svg"
     }
-
-
 ]
