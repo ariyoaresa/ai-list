@@ -138,6 +138,13 @@
         "description": "Instant feedback on your business ideas",
         "url": "https://venturusai.com/",
         "logo": "./assets/Ai-icons/venturusai.svg"
+    },
+    {
+        "id": 21,
+        "name": "TutorAI",
+        "description": "Personalized Educational Platform for Learning anything.",
+        "url": "https://www.tutorai.me/",
+        "logo": "./assets/Ai-icons/tutorai.svg"
     }
 
 ]
