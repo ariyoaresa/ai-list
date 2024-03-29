@@ -131,6 +131,20 @@
         "description": "Create astonishing designs with artificial intelligence, ranging from logos to mockups",
         "url": "https://designs.ai",
         "logo": "./assets/Ai-icons/designs-ai.png"
+    },
+    {
+        "id": 20,
+        "name": "VenturusAI",
+        "description": "Instant feedback on your business ideas",
+        "url": "https://venturusai.com/",
+        "logo": "./assets/Ai-icons/venturusai.svg"
+    },
+    {
+        "id": 21,
+        "name": "TutorAI",
+        "description": "Personalized Educational Platform for Learning anything.",
+        "url": "https://www.tutorai.me/",
+        "logo": "./assets/Ai-icons/tutorai.svg"
     }
 
 ]
