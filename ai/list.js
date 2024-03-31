@@ -201,8 +201,5 @@
         "description": "Customized image generation with a variety of options.",
         "url": "https://learnwithhasan.com/tools/ai-image-generator/",
         "logo": "https://learnwithhasan.com/wp-content/uploads/2023/02/learnwithhasan-logo.png"
-    }
-    
-    
-    
+    }   
 ]
