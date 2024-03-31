@@ -180,6 +180,14 @@
         "description": "LearningStudioAI offers personalized online courses for individuals interested in various subjects. It provides adaptive learning paths, comprehensive course materials, and interactive exercises.",
         "url": "https://learningstudioai.com/",
         "logo": "https://learningstudioai.com/learningstudioai-logo.svg"
+    },
+    {
+        "id": 27,
+        "name": "Stockimg AI",
+        "description": "Generated images and text for design ease.",
+        "url": "https://stockimg.ai/",
+        "logo": "https://stockimg.ai/_next/image?url=%2Flogostockimg2.png&w=256&q=75"
     }
+    
     
 ]
