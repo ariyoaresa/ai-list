@@ -112,14 +112,6 @@ ul, li{
     width: 130px;
 }
 
-
-
-
-
-
-
-
-
 #sbcnt {
     display: flex;
     justify-content: center;
@@ -307,4 +299,11 @@ footer{
 .content p {
     color: #666;
     line-height: 1.6;
+}
+
+@media (max-width: 790px) {
+    #list{
+        display: flex;
+        flex-direction: column;
+    }
 }
