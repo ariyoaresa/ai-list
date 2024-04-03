@@ -112,14 +112,6 @@ ul, li{
     width: 130px;
 }
 
-
-
-
-
-
-
-
-
 #sbcnt {
     display: flex;
     justify-content: center;
@@ -272,7 +264,7 @@ footer{
     color: white;
 }
 #contributors{
-    height: fit-content;
+    height: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -308,3 +300,32 @@ footer{
     color: #666;
     line-height: 1.6;
 }
+
+
+@media only screen and (max-width: 768px) {
+    .nav-content{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .logo{
+        font-size: 20px;
+        margin-left: 20%;
+    }
+
+    .list-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .list-content{
+        display: flex;
+        size: 14px;
+        flex-direction: column;
+        gap: 1px;
+    }
+ 
+
+}   
