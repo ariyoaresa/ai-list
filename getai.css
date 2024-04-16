@@ -13,6 +13,7 @@ body{
     font-family: 'Red Rose', inter;
 }
 
+
 a{
     text-decoration: none;
 }
@@ -33,6 +34,7 @@ ul, li{
     align-items: center;
     max-width: 1250px;
     width: 100%;
+    color: white;
 }
 
 .nav-links{
@@ -58,6 +60,7 @@ ul, li{
     cursor: pointer;
     font-family: 'Red Rose', inter;
 }
+
 
 .hero{
     background-image: url('./assets/images/hero\ background.svg');
@@ -314,9 +317,7 @@ footer{
         display: grid;
         grid-template-columns: auto;
     }
-    .menu-icon{
-        display: block;
-    }
+    
     .nav-links{
         display: none;
         flex-direction: column;
@@ -331,5 +332,8 @@ footer{
     }
     .nav-links a{
         margin: 8px;
+    }
+    .menu-icon{
+        display: block;
     }
 }
