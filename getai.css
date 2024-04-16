@@ -310,6 +310,7 @@ footer{
 }
 .menu-icon{
     display: none;
+    font-size: 30px;
 }
 
 @media (max-width: 790px) {
@@ -322,6 +323,7 @@ footer{
         display: none;
         flex-direction: column;
         background-color: inherit;
+        position: absolute;
         top: 50px;
         left: 0;
         right: 0;
