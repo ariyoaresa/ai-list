@@ -314,6 +314,9 @@ footer{
         display: grid;
         grid-template-columns: auto;
     }
+    .menu-icon{
+        display: block;
+    }
     .nav-links{
         display: none;
         flex-direction: column;
