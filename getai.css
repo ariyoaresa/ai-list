@@ -302,10 +302,31 @@ footer{
     color: #666;
     line-height: 1.6;
 }
+#menu-toggle{
+    display: none;
+}
+.menu-icon{
+    display: none;
+}
 
 @media (max-width: 790px) {
     #list{
         display: grid;
         grid-template-columns: auto;
+    }
+    .nav-links{
+        display: none;
+        flex-direction: column;
+        background-color: inherit;
+        top: 50px;
+        left: 0;
+        right: 0;
+        text-align: center;
+    }
+    #menu-toggle:checked ~ .nav-links{
+        display: block;
+    }
+    .nav-links a{
+        margin: 8px;
     }
 }
