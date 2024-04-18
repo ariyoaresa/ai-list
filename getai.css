@@ -322,7 +322,7 @@ footer{
     .nav-links{
         display: none;
         flex-direction: column;
-        background-color: inherit;
+        background-color: #141718;
         position: absolute;
         top: 50px;
         left: 0;
