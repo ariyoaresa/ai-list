@@ -328,6 +328,7 @@ footer{
         left: 0;
         right: 0;
         text-align: center;
+        font-size: 24px;
     }
     #menu-toggle:checked ~ .nav-links{
         display: block;
