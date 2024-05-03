@@ -186,7 +186,7 @@
         "name": "Stockimg AI",
         "description": "Generated images and text for design ease.",
         "url": "https://stockimg.ai/",
-        "logo": "https://stockimg.ai/_next/image?url=%2Flogostockimg2.png&w=256&q=75"
+        "logo": "https://stockimg.ai/favicon.ico"
     },
     {
         "id": 28,
