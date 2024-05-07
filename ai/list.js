@@ -208,5 +208,34 @@
         "description": "Claude AI is a tool that uses AI to generate images based on your text descriptions.",
         "url": "https://claude.ai/",
         "logo": "https://claude.ai/favicon.ico"
-    } 
+    },
+    {
+        "id": 31,
+        "name": "Deep Dream Generator",
+        "description": "Deep Dream Generator is a tool that uses AI to generate images based on your text descriptions.",
+        "url": "https://deepdreamgenerator.com/",
+        "logo": "https://deepdreamgenerator.com/favicon.ico"
+    },
+    {
+        "id": 32,
+        "name": "Resemble AI",
+        "description": "Resemble AI is a tool that uses AI to generate images based on your text descriptions.",
+        "url": "https://www.resemble.ai/",
+        "logo": "https://cdn-ikphdcf.nitrocdn.com/iWWPCWIhKvbRsOjJZAYfaYqrvBIRQglP/assets/images/optimized/rev-3a79aff/www.resemble.ai/wp-content/uploads/2021/05/logo.webp"
+    },
+    {
+        "id": 33,
+        "name": "AI Dungeon",
+        "description": "AI Dungeon is a tool that uses AI to generate images based on your text descriptions.",
+        "url": "https://play.aidungeon.io/",
+        "logo": "https://play.aidungeon.io/favicon.ico"
+    },
+    {
+        "id": 34,
+        "name": "resume.io",
+        "description": "AI-powered resume builder.",
+        "url": "https://resume.io/",
+        "logo": "https://resume.io/favicon.ico"
+
+    }
 ]
