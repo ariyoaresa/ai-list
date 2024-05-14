@@ -201,5 +201,12 @@
         "description": "Customized image generation with a variety of options.",
         "url": "https://learnwithhasan.com/tools/ai-image-generator/",
         "logo": "https://learnwithhasan.com/wp-content/uploads/2023/02/learnwithhasan-logo.png"
-    }   
+    },
+    {
+        "id": 30,
+        "name": "Claude AI",
+        "description": "Claude AI is a tool that uses AI to generate images based on your text descriptions.",
+        "url": "https://claude.ai/",
+        "logo": "https://claude.ai/favicon.ico"
+    } 
 ]
