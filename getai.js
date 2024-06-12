@@ -7,6 +7,7 @@ function getList() {
             return response.json();
         })
         .then(data => {
+            data.sort((a, b) => a.name.localeCompare(b.name));
             let list = document.getElementById('list');
             let listHTML = "";
             data.forEach(item => {
